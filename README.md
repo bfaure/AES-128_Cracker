@@ -10,7 +10,7 @@ extra_consumers<br>
 First re-compile utils.pyx using "python setup.py build_ext --inplace". Afterward the main module, aes_cracker.py, can be run using "python aes_cracker.py"
 
 ## Command-Line Interface
-![Alt text](https://github.com/bfaure/AES_128-Cracker/blob/master/resources/screenshot.png)
+![Alt text](https://github.com/bfaure/AES-128_Cracker/blob/master/resources/screenshot.png)
 
 ## Requirements
 Python 2.7, PyCrypto, Cython
